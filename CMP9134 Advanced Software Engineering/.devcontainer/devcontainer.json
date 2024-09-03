@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Advanced Software Engineering",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp9134:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
